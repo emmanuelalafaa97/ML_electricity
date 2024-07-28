@@ -1,1 +1,1 @@
-# BigGAN-Capstone-Group-Project-Deliverables
+# Machine learning Project on Electricity Prediction
