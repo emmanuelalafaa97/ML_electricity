@@ -6,4 +6,4 @@ def show():
     Welcome to the app that forecasts electricity demand and supply gaps using Generative AI.
     Explore the predictions for Sub-Saharan Africa.
     """)
-    st.image("pages\Powerlines Electricity distribution.jpg")  # Optional: Add a relevant image
+    st.image("pages/Powerlines Electricity distribution.jpg")  # Optional: Add a relevant image
