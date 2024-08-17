@@ -4,7 +4,7 @@ import numpy as np
 
 def load_scaler():
     # Load the saved scaler
-    scaler = joblib.load('model\scaler.pkl')
+    scaler = joblib.load('model/scaler.pkl')
     return scaler
 
 def preprocess_data(region, year, scaler, features):
